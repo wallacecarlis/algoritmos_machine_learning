@@ -13,3 +13,4 @@ Tipos de Algoritmos de Machine Learning e suas aplicações
 * **9.0 - Light GBM:** https://bit.ly/4qHVR2Y
 * **10.0 - XGBoost:** https://bit.ly/4cyknjE
 * **11.0 - Random Forest - base de censo:** https://bit.ly/4rAf8EI
+* **12.0 - Redes Neurais:** https://bit.ly/4apBjHV
