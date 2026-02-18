@@ -6,3 +6,4 @@ Tipos de Algoritmos de Machine Learning e suas aplicações
 * **2.0 - Regressão Linear:** https://bit.ly/3OkJ1KI
 * **3.0 - Naive Bayes:** https://bit.ly/4aXkpAn
 * **4.0 - Árvore de Decisão:** https://bit.ly/3ZIY57q
+* **5.0 - Regressão Logística:** https://bit.ly/4rZFrEh
