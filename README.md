@@ -3,7 +3,7 @@ Tipos de Algoritmos de Machine Learning e suas aplicações
 
 ### Algoritmos:
 * **1.0 - K-Means - base de previsão de empréstimo:** https://bit.ly/4qBQvpX
-* **2.0 - Regressão Linear:** https://bit.ly/3OkJ1KI
+* **2.0 - Regressão Linear - base de Housing: previsão de preço de venda de imóveis:** https://bit.ly/3OkJ1KI
 * **3.0 - Naive Bayes:** https://bit.ly/4aXkpAn
 * **4.0 - Árvore de Decisão:** https://bit.ly/3ZIY57q
 * **5.0 - Regressão Logística - base de doenças cardiovasculares:** https://bit.ly/4rZFrEh
