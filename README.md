@@ -1,2 +1,2 @@
-# algoritmos_machine_learning
+# Algoritmos de Machine Learning
 Algoritmos de Machine Learning
