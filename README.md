@@ -9,3 +9,4 @@ Tipos de Algoritmos de Machine Learning e suas aplicações
 * **5.0 - Regressão Logística - base de doenças cardiovasculares:** https://bit.ly/4rZFrEh
 * **6.0 - Random Forest:** https://bit.ly/4c2EGph
 * **7.0 - SVM (Classifier):** https://bit.ly/4tE2LJz
+* **8.0 - Regressão Logística - base de censo** https://bit.ly/4qOxW27
