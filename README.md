@@ -7,7 +7,7 @@ Tipos de Algoritmos de Machine Learning e suas aplicações
 * **3.0 - Naive Bayes - base de previsão de empréstimo:** https://bit.ly/4aXkpAn
 * **4.0 - Árvore de Decisão - base de previsão de empréstimo:** https://bit.ly/3ZIY57q
 * **5.0 - Regressão Logística - base de doenças cardiovasculares:** https://bit.ly/4rZFrEh
-* **6.0 - Random Forest:** https://bit.ly/4c2EGph
+* **6.0 - Random Forest - base de censo:** https://bit.ly/4c2EGph
 * **7.0 - SVM (Classifier):** https://bit.ly/4tE2LJz
 * **8.0 - Regressão Logística - base de censo:** https://bit.ly/4qOxW27
 * **9.0 - Light GBM:** https://bit.ly/4qHVR2Y
